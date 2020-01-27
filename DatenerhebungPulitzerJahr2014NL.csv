@@ -1,0 +1,20 @@
+id,name,type,sex,age,study,category,nationality,year,
+GU,The Guardian US,2,99,99,99,1,1,2014,
+WaPo,The Washington Post,2,99,99,99,1,1,2014,
+BG,The Boston Globe,2,99,99,99,2,1,2014,
+"ChHa
+",Chris Hamby,1,1,2,1,3,1,2014,"
+"
+ElSa,Eli Saslow,1,1,2,1,4,1,2014,
+WiHo,Will Hobson,1,1,2,4,5,1,2014,
+MiLa,Michael LaForgia,1,1,2,4,5,1,2014,
+DaPh,David Philipps,1,1,3,1,6,1,2014,
+JaSz,Jason Szep,1,1,,,7,1,2014,
+AnMa,Andrew R.C.Marshall,1,1,4,4,7,3,2014,
+StHe,Stephen Henderson,1,1,4,,9,1,2014,
+InSa,Inga Saffron,1,2,5,4,10,1,2014,
+OR,The Oregonian,2,99,99,99,11,1,2014,
+KeSi,Kevin Siers,1,1,5,4,12,1,2014,
+TyHi,Tyler Hicks,1,1,4,1,13,3,2014,
+JoHa,"Josh Harner
+",1,1,3,4,14,1,2014,
